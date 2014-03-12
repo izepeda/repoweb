@@ -1,4 +1,567 @@
-<HTML>
-<PRINTF "HOLAMUNDO">
+<html>
+	<head>
+	
+	<!--TITULO  DE LA PAGINA-->
+		<title>CUIDA LOS ANIMALES DE TU ESTADO</title>
+			</b></font>  
+			<!--CODIGO  DE ANUNCIO  ANIMADO-->
+	 <marquee bgcolor="BLACK" behavior="alternate" direction="right">
+    <font color="white"  size="6">VIDA CHIAPAS AYUDANDO A LOS ANIMALES EN  PELIGRO  DE EXTINCIÒN</font>
+	</marquee> 
+	
+	<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr size="20" />
+<hr size="2"  />
+	 
+	
+	<div align="center">
+	<!--LOGO  DE UNACH Y  GIF DE BANDERA-->
+	<img src="gif/Mexico (3).GIF"height="80" align= "left"/> <img src="gif/05.GIF"height="80"/><img src="gif/unach-dorado.PNG" height="80"/> <img src="gif/05.GIF"height="80"/> <img src="gif/planeta-tierra-177065.GIF"height="80" ALIGN="right"/>
+		</div>
 
-</HTML>
+	
+	
+	<center><form>
+	
+	
+		<link type="text/css" rel="stylesheet" href="estilo.css"/>
+		<link type="text/css" href="css/ui-darkness/jquery-ui-1.8.23.custom.css" rel="stylesheet" />
+		<script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.8.23.custom.min.js"></script>
+		<script type="text/javascript">
+		
+			//alert('Mensaje cuando la página esta lista...');
+			//location.href='http://www.google.com';
+			$(function(){
+				// Datepicker
+				$('#dtpLlegada').datepicker({});
+				$('#dtpSalida').datepicker({});
+				$('#sedes').accordion();
+				$('#tabs').tabs();
+				$('#quien').accordion();
+				$('#contacto').accordion();
+				$('#informacion').accordion();
+				$('#tabs').tabs();
+				
+			});
+		</script>
+		
+		<style>
+		
+		.info{
+			float:clear;
+			border-style:dashed;
+			border-color:black;
+			border-width:5px;
+			width:400px
+		
+		
+		
+		.espacio{
+			float:clear;
+			border-style:dashed;
+			border-color:black;
+			border-width:5px;
+			width:400px;
+			
+		}
+		.reservacion{
+			text-align:right;
+			background-color:black;
+			color:black;
+			
+		}
+		.quienes{
+		text-align:right;
+		background-color:black;
+		color:black;
+			
+		}
+		
+		
+		.contactanos{
+		text-align:right;
+		background-color:black;
+		color:black;
+			
+		}
+		</style>
+		
+	</head>
+	<!--COLOR DE FONDO DE LA PAGINA-->
+	<body style="background-color:BLACK;">
+	
+	<!--DIMENSIONES DE LOS SEPARADORES-->
+	<div id="tabs" style="width:1250px; height:1550px;">
+			<center><ul>
+	<!--ENCABEZADOS-->
+	<li><a href="#reservaciones">ANTECEDENTES</a></li> 
+	
+			<li><a href="#galeria">GALERIA DE IMAGENES </a> </li>
+			
+				
+			<li><a href="#quien">¿QUIENES SOMOS?</a></li> 
+				
+				
+				<LI><A HREF="#LISTA">PARA MÁS INFORMACIÓN <font color="red">>>>>"AQUI"<<<<</font></A></LI>
+			
+				
+				
+			
+			</ul></center>
+			
+			<div id="galeria">
+			
+					<div id="sedes">	
+					
+					<!--INICIO DEL  CODIGO DE IGUANA VERDE-->
+						<h1><a><font color="lime">Iguana Verde</FONT></a></h1>
+						<div><img src="img/iguana.jpG" height="600" alt="IGUANA VERDE" title="Iguana Verde"BORDER="3"/>
+						<DIV>
+												<CENTER><BIG><B>"En peligro de extinción, importante y simbólica especie del Soconusco"</B></BIG></CENTER>
+												<p align="justify"><font color="GREEN"><I>TAPACHULA, Chiapas. Sin duda, la región del Soconusco es uno de los lugares con mayor riqueza natural y fauna en el estado, por lo que cuenta con gran diversidad de especies animales, pero lamentablemente, algunas de ellas ya se encuentran en peligro de extinción, por factores como la caza furtiva.
+
+Una de las especies en mayor riesgo es la iguana verde, que hace unos años era muy común encontrar en las veredas y en donde actualmente son las más perseguidas, debido a que las comercializan de forma clandestina o son asesinadas para consumirse.</I></FONT></p>
+	<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width="75%"/>
+	 											
+
+
+						<CENTER> <B> DESCRIPCIÒN </B></CENTER>
+						
+<p align="justify"><font color="GREEN">Pueden medir de 1,5 o 2 metros. Son animales herbívoros y se reproducen por medio de huevos, que son colocados bajo tierra durante el mes de febrero (verano austral). Alcanzan la madurez sexual a los 16 meses de edad, pero son consideradas adultas a los 36 meses, cuando miden 70 cm de largo.
+El color verde de su piel les permite confundirse perfectamente con la vegetación que hay en su entorno. Su piel esta recubierta de pequeñas escamas, tienen una cresta dorsal que recorre desde su cabeza hasta su cola, esta es muy vistosa en los machos.
+Todas las iguanas tienen patas muy cortas y cinco dedos en cada pata, acabados en garras muy afiladas. Su cola es larga y delgada y está bordeada por una hilera de afiladas escamas dorsales. Este animal a veces emite resoplidos.
+También se caracterizan por un gran repliegue debajo de la barbilla similar a una papada y son conocidas por sus espectaculares exhibiciones en los rituales de defensa y cortejo, en los que levantan el cuerpo mientras agitan con fuerza la cabeza de arriba a abajo. Viven principalmente en regiones bastante húmedas, como la selva mexicana y brasileña.</FONT></P>
+
+<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width="75%"/>
+	 
+																														<CENTER><B>DIFORMISMO SEXUAL</B></CENTER>
+																														
+<p align="justify"><font color="GREEN">El macho se distingue de la hembra porque tiene una cresta más grande y protuberante, la cabeza es corta y no tan alargada. Tienen unas glándulas a nivel de su membrana su timpánica que en la madurez sexual empiezan crecer y se notan los bultos.
+La papada suele ser más grande. Los poros femorales, protuberancias que van por abajo de sus piernas, son más marcados que en la hembra, además tienen dos bultos en la zona de la cloaca que son los hemipenes.
+Los machos también tienden a cambiar a un color anaranjado en época de apareamiento. Esto, aunque tampoco es una característica exclusiva de los machos, su color es más brillante y fuerte que en las hembras. La época de apareamiento es diferente en cada región del mundo; está regido por temperaturas, humedad y radiación solar, que hacen que entren en la época de celo.</FONT></P>
+
+</DIV></div> 
+<!--FIN DEL  CODIGO DE IGUANA VERDE-->
+
+
+
+
+<!--INICIO DEL  CODIGO DE JAGUAR-->
+						<h1><a><font color="lime">El Jaguar</FONT></a></h1>
+						<div><img src="img/jaguar.jpg" height="600" alt="JAGUAR" title="Jaguar" BORDER="3"/>
+						<div>
+						<center><BIG><B>"Chiapas con más Especies Naturales en Peligro de Extinción"</B></BIG></center>
+						<p align="justify"> <font color="GREEN"><I>Las principales especies en peligro,  el jaguar chiapaneco atraviesa una situación critica, ya que el deterioro y la pérdida de hábitats los pone en una situación de exterminio. Por esa razón se trabaja bajo tres acciones prioritarias, el monitoreo nacional y la atención del conflicto de “ganado-jaguar”, esta última es la que provoca mayor pérdida de esta especie, por lo que hay realizar una sinergia para la conservación de los hábitats.
+“La cacería por represalia o por depredación de ganado es una consecuencia catastrófica para esta especie; es cierto que esta no es deportiva pero sí es el principal problema de la pérdida del jaguar. Alrededor de cinco regiones, sureste, norte, occidente, y otras están identificadas como las más criticas”.</I></FONT></p>
+	 <!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width="75%"/>
+	 <center><BIG><b>Descripción</b></BIG></center>						
+	 
+	 <p align="justify"><font color="GREEN"> Su cabeza es robusta y sus mandíbulas extremadamente potentes. Su tamaño tiende a incrementarse cuanto más al sur se localicen.
+Panthera onca es el mayor félido de América.34 Es un animal robusto y musculoso que presenta variaciones significativas en cuanto al tamaño, con un peso que oscila normalmente entre 56 y 96 kilogramos, aunque hay registros de machos más grandes, de hasta 158 kg (aproximadamente como una tigresa o una leona),35 36 y por el contrario los más pequeños pueden tener un peso tan bajo como 36 kg. Las hembras suelen ser un 10-20% más pequeñas que los machos. La longitud de este félido varía entre 162 y 183 cm y la cola puede añadir unos 75 cm más. Su altura hasta los hombros es de unos 67-76 cm.37 Su cabeza es voluminosa y con una mandíbula prominente; el color de sus ojos varía de un tono amarillo oro a un amarillo verdoso y sus orejas son relativamente pequeñas y redondeadas.38
+Se han observado variaciones en su tamaño en diferentes regiones y hábitats, mostrando un incremento de tamaño cuanto más al sur se localicen. Un estudio realizado en la Reserva de la Biosfera de Chamela-Cuixmala, en la costa mexicana del Pacífico, mostró que en esa zona pesaban tan sólo entre 30–50 kg, aproximadamente el peso del puma,39 mientras que un estudio en la región brasileña del Pantanal mostraba un peso medio de 100 kg, a menudo con pesos de 135 kg o más en machos viejos.40 Los ejemplares que habitan en forestas a menudo son más oscuros y bastante más pequeños que los que viven en áreas abiertas (el Pantanal es una cuenca de zonas húmedas abierta), posiblemente debido al menor número de grandes presas herbívoras en las zonas boscosas.41
+La estructura corta y robusta de sus miembros hace que sea muy hábil a la hora de escalar, arrastrarse y nadar.37 La cabeza es robusta y lamandíbula extremamente potente; se ha sugerido que posee el mordisco más potente de todos los félidos y el segundo más potente de todos los mamíferos (tras la hiena manchada); esta potencia es una adaptación que le permite incluso perforar caparazones de tortugas.6 Un estudio comparativo de la potencia de mordisco ajustado según la medida corporal lo situó como el primero de los félidos, junto con la pantera nebulosa, y por delante del león y el tigre.42
+Un ejemplar adulto puede arrastrar 8 metros un toro de 360 kilogramos entre sus mandíbulas y pulverizar los huesos más duros,43 o arrastrar a una tortuga de mar de 34 kg a lo largo de más de 90 m en la profundidad de un bosque.34 Puede cazar animales salvajes que pesan hasta 300 kg en el interior de una selva densa y su físico corto y robusto es una adaptación a sus presas y ambiente.</FONT></p></div></div>
+	
+<!--FIN DEL  CODIGO DE IGUANA VERDE-->
+
+<h1><a><font color="lime">El Tucan</FONT></a></h1>
+<div><img src="img/tucan.jpg" height="600" alt="JAGUAR" title="Tucan" BORDER="3"/>
+<div>
+<CENTER><BIG><B>"majestuosa especie se encuentra en peligro de extinción"</B></BIG></CENTER>
+<p align="justify"><font color="green"><I>En la actualidad esta majestuosa especie se encuentra en peligro de extinción, dado a la modificación de su habitar y el lento ciclo de reproducción que posee, en la que solo deposita 2huevosy que con el cambio climático difícilmente consiguen llegar a termino.</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">Considerado como uno de los animales mas vistosos de la selva americana, el tucán es un ave altamente sociable que se distingue por las dimensiones de su pico, el cual ha de alcanzar un tercio de su longitud total. El tucán es el nombre común con que se le conoce a esta especie que forma parte de la familia de las ranfastidas (Ramphastos, aves trepadoras con dedos 1º. Y 4º hacia atrás) y al orden piciformes, se incluyen por lo menos 40 especies de pájaros del trópico americano, compuesto de varios géneros propios de la fauna neotropical, cuyos caracteres sumamente peculiares, bastan para distinguirlos aún a primera vista de cualesquiera de otros grupos ornitilógicos. De estos caracteres los más notables son los del pico, que es enorme, y sin embargo muy ligero. 
+Su envoltura externa es algo elástica, muy delgada, lisa y un tanto translúcida; el interior consiste en una masa de celdillas entre las cuales se distribuyen las ramificaciones de los nervios olfativos. Las narices se abren en la base misma del pico; los bordes de éste son aserrados, y el color del pico mismo es siempre vivo, brillante y con frecuencia variado, ofreciendo algún llamativo dibujo. 
+
+El pico del tucán presenta un perfil afilado y colores luminosos y llamativos con una función de reconocimiento entre los miembros de la especie. Asímismo se piensa que el pico actúa de forma intimidatoria frente a otras aves. El largo y llamativo pico permite al tucán obtener las frutas y hacerse reconocer por otros miembros de su especie sobre todo en el cortejo nupcial. 
+</FONT></p>
+ <hr width="75%"/>
+	 
+																														<CENTER><B>Caracteristicas</B></CENTER>
+<p align="justify"><font color="GREEN">Son pájaros de costumbres arborícolas, viven en las grandes selvas, por la general en bandos pequeños, cuya presencia revelan por gritos ásperos y discordantes. </FONT></P>
+</DIV></div> 
+
+						<h1><a><font color="lime">El Pavón</FONT></a></h1>
+						<div><img src="img/PAVON2.jpg" height="600" alt="PAVON" title="Pavon" BORDER="3"/>
+						<div>
+						<CENTER><BIG><B>"El pavón una de las aves más hermosas de México"</B></BIG></CENTER>
+<p align="justify"><font color="green"><I>tiene su hábitat en el bosque mesófilo de montaña o nubliselva, que se localiza en la Sierra Madre de Chiapas</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">  Alcanza a medir 90 cm. de longitud, tiene un cuerno de hueso color rojo en la cabeza. El color de su cuerpo es negro y brillante; el pecho es blanco con finas rayas negras; la cola es negra, con una banda blanca horizontal cerca de la parte media; el pico es amarillo y las patas rojizas. Ambos sexos son iguales.
+Las hembras alcanzan su madurez a los 5 años, se reproducen en los meses de febrero a junio. La hembra pone dos huevos de color blanco. La incubación de los huevos es de aproximadamente 35 días.
+
+En el zoológico, un ejemplar alcanzó a vivir 17 años; en su hábitat natural, viven aproximadamente 8 años.
+Cuando se siente amenazado por algún depredador, vuela rápidamente hacia algún árbol, se coloca a lo largo de una rama, y se queda inmóvil para pasar inadvertido. Baja al suelo para bañarse de tierra y para buscar alimento, removiendo vigorosamente la hojarasca.
+ 
+</FONT></p>
+ <hr width="75%"/>
+	 
+																														<CENTER><B>Alimentación</B></CENTER>
+<p align="justify"><font color="GREEN">Baja de los árboles a buscar su alimento, removiendo vigorosamente las hojarascas. El pavón se alimenta de frutos verdes y maduros, de un árbol llamado palo careta.
+Come grillos, uvas silvestres y aguacatillos silvestres.  
+</FONT></P>
+</DIV></div> 
+
+						
+						
+										
+						<h1><a><font color="lime">Chivizcoyo</FONT></a></h1>
+						<div><img src="img/chiviscoyo.jpg" height="600" alt="CHIVIZCOYO" title="Chiviscoyo" BORDER="3"/>
+						<div>
+						<CENTER><BIG><B>"Es quizá la variedad de ave menos conocida en Chiapas, por lo restringido del medio en que se encuentra."</B></BIG></CENTER>
+						<p align="justify"><font color="green"><I>Su presencia en el país está limitada a una pequeña parte de los estados de Guerrero, Tamaulipas, Veracruz, partes altas de Chiapas y las tierras bajas del bosque tropical de la península yucateca, en donde los ejemplares son un poco más pequeños que los del resto del país.</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">Esta escurridiza ave es de tamaño mediano y cola muy corta. Tanto el macho como la hembra son muy parecidos. Sus partes superiores son café castaño con manchas negras, olivo y mate.Tienen un color naranja brillante en el cuello y una línea sobre los ojos. Las partes inferiores son de color café olivo pálido con línea blancas.Quizás su naturaleza tímida y escurridiza la convierta en una de las variedades más interesantes de codornices, ya que se ha adaptado a medio ambientes tan diferentes como los altos bosques nublados y los bosques de encino, y las tierras bajas, con vegetación arbustiva desarrollada como resultado de las cortas quemas y de la selva tropical original.
+
+Cuando el chivizcoyo se topa con un ser extraño emprende furtiva carrera y, si realmente se siente perseguida, un vuelo rápido y cortó, como la mayor parte de las codornices, para esconderse entre la vegetación baja.
+
+
+ 
+</FONT></p>
+ <hr width="75%"/>
+	 
+																														<CENTER><B>Un privilegio Notable</B></CENTER>
+<p align="justify"><font color="GREEN">Esta ave tiene un privilegio del que carecen otras de su especie: su canto admirablemente melodioso y complicado que, según los que han intentado describirlo, "consiste en una serie de cuatro silbidos penetrantes y fuertes que poco a poco aumentan de intensidad y de frecuencia y se complementan con una serie de escalas rápidas formadas de notas de intensidad diferente". Y, al parecer, sólo los machos cantan. 
+</FONT></P>
+</DIV></div> 
+						<h1><a><font color="lime">Venado Cola Blanca</FONT></a></h1>
+						<div><img src="img/venado.jpg" height="600" alt="VENDADO DE COLA BLANCA" title="Venado de cola blanca"BORDER="3"/>
+						<div>
+						<CENTER><BIG><B>"Uno de los animales más bellos de la fauna local "</B></BIG></CENTER>
+						<p align="justify"><font color="green"><I>Es preciso emprender medidas urgentes para protegerlo, ya que se tiene calculada una población de 200 venados en la zona</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">Erguido sobre sus largas y esbeltas patas, con hermosa cornamenta ramificada, de mirada dulce, inquieta, que le da un aire de fragilidad, el venado cola blanca parece estar destinado a convertirse en un recuerdo. Como muchas otras especies en peligro, está casi extinto en la región de los ríos a causa del instinto depredador del hombre. El venado cola blanca es de talla mediana, debe su nombre al largo rabo que mantiene eréctil mientras corre y su pelaje es de color café en invierno y rojizo -con el vientre blanco- durante el verano. “Es uno de los animales más bellos de la fauna local y es preciso emprender medidas urgentes para protegerlo, ya que tenemos calculada una población de 200 venados en la zona
+
+ 
+</FONT></p>
+ <hr width="75%"/>
+	 
+																														<CENTER><B>Principal problema de extinción</B></CENTER>
+<p align="justify"><font color="GREEN">De acuerdo a informes recientes de la Profepa y Semarnat, el resultado de la tenaz persecución, de la cacería ilegal, de la falta de educación ambiental y el ordenamiento de las actividades ganaderas, motivada por la falta de sensibilidad y de responsabilidad por la conservación de las especies animales -en particular hacia el “cola blanca’-provocó en menos de 15 años una aguda merma en toda la zona del sureste que difícilmente podrá ser superada, especialmente en la zona fronteriza de Balancán y Tenosique, así como en la franja fronteriza de México con Guatemala, donde aun se comercia la rica carne a razón de 70 a 100 pesos el kilo y otro tanto la resistente piel de este preciado ciervo.
+Los gráciles saltos del venado, su gesto al levantar la nariz para olfatear el aire mientras recorre los bajos pastizales y busca resguardo entre los árboles, su “ramonear” tranquilo y su mirada dulce, así como las ventajas que para la alimentación ofrece su cacería controlada, quizá ya puedan considerarse elementos perdidos.
+
+</FONT></P>
+</DIV></div> 
+						<h1><a><font color="lime">Armadillo de cola desnuda</FONT></a></h1>
+						<div><img src="img/armadillo.jpg" height="600" alt="ARMADILLO DE COLA DESNUDA" title="Armadillo de cola desnuda" BORDER="3"/> 
+						<div>
+						<CENTER><BIG><B>"Es una especie pequeña de armadillo de Sudamérica."</B></BIG></CENTER>
+						<p align="justify"><font color="green"><I>especie en peligro de extinción, sólo se puede encontrar en las zonas de acahuales y pastizales de la Selva Lacandona de Chiapas.</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">Es un animal terrestre, solitario y nocturno, vive en numerosos hábitats del bosque tropical hasta las praderas. Al igual que muchos otros armadillos, es insectívoro, alimentándose de hormigas y termitas. Excava madrigueras cuya entrada es de unos 16 cm de diámetro; las mismas son utilizadas solo por una noche y luego las abandona.
+se ha convertido en una especie en peligro de extinción, ya que está perdiendo su hábitat debido a la invasión humana. Esta especie se caza por su carne, ya que es un manjar en América del Sur, armadillos también son cazados por su piel, que se usa para hacer accesorios de cuero como bolsos y cinturones. Sólo los nueve raza armadillo es cada vez mayor, mientras que otros como el armadillo gigante y rosa, el armadillo de hadas se están convirtiendo rápidamente extinguido.
+Los armadillos tienen patas cortas, pero se pueden mover muy rápido en tiempos de peligro. Su capa exterior les ayuda a avanzar más rápido en los bosques densos, sin hacerse daño.
+Además de ser una especie en peligro de extinción, sólo se puede encontrar en las zonas de acahuales y pastizales de la Selva Lacandona de Chiapas.
+ 
+</FONT></p></DIV></div> 
+						<h1><a><font color="lime">Puerco Espín</FONT> </a></h1>
+						<div><img src="img/puercoespin.jpg" height="600"BORDER="3"/>
+						<div>
+						<CENTER><BIG><B>"La presencia de esta especie es de mucha importancia"</B></BIG></CENTER>
+						<p align="justify"><font color="green"><I>En México, se encuentra desde el este de San Luis Potosí hasta la Península de Yucatán, y desde Guerrero hasta Chiapas. A pesar de que su carne no es comestible y su piel no tiene ningún uso especial, el puerco espín corre el riesgo de desaparecer debido a la destrucción de su hábitat y la persecución de que lo hacen víctima los campesinos, que lo consideran una amenaza para sus cultivos..</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">El puerco espín (Coendus mexicanus) es un pequeño mamífero de peculiar, inconfundible apariencia: tamaño de un gato, patas muy cortas, larga cola prensil, ojos pequeños y púas en toda la espalda, que le dan ese curioso aspecto de alfiletero.
+Conocido también como “zorro espín” y coendú, es un roedor que pertenece a la familia de los eretizóntidos, misma en la que se agrupan el erethizon dorsatum (ursón canadiense o norteamericano), el coendus prehensilis (coendu brasileño y el echinoprocta rufences o puerco espín andino.
+
+</FONT></p></DIV></div> 
+						
+						<h1><a><font color="lime">El cojolite</FONT></a></h1>
+						<div><img src="img/COJOLITE.jpg" height="600"/ BORDER="3" >
+						<div>
+						<CENTER><BIG><B>"El cojolite"</B></BIG></CENTER>
+<p align="justify"><font color="green"><I>En México habita los bosques tropicales del norte de Sinaloa, en el centro de Tamaulipas y en la región que se extiende por ambas costas hasta el Itsmo de Tehuantepec y hacia el Este, atravesando Chiapas y las partes boscosas de la Península de Yucatán.
+El cojolite puede vivir incluso en los bosques altos rodeados de nubes y en ciertos bosques característicos de las mesetas de Michoacán, Guerrero, Oaxaca y Chiapas
+</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN"> 
+El cojolite, ave del tamaño de un pavo pequeño, de grandes alas y cola larga, es pariente muy cercano del hocofaisán, aunque, a diferencia de esta tímida ave, ha logrado sobrevivir en hábitats modificados incluso por el hombre.
+Mide entre 70 y 91 cm. de longitud y pesa entre 1,6 y 2,7 kg. Los machos se caracterizan por un copete gris desarrollado a la manera de una cresta. El plumaje es pardo oscuro grisáceo con bordes blancos. La cara alrededor de los ojos es desnuda y azul, la garganta ancha y roja, el pico negro brillante y sus patas son de color rojo.
+
+ 
+</FONT></p>
+ <hr width="75%"/>
+	 
+																														<CENTER><B>	Comportamiento</B></CENTER>
+<p align="justify"><font color="GREEN">El cojolite se reúne en bandadas de número indefinido y es difícil saber la proporción de machos y hembras, ya que en apariencia son iguales. Son principalmente arbóreos y rara vez bajan a la superficie.
+Es común verlos en las copas de los árboles, se desplazan de rama en rama en "vuelos cortos", cacareando siempre y tratando de descubrir algún ruido extraño que responda a su llamado. Los cojolites o ajoles se distinguen también por su canto quejumbroso, especialmente por las mañanas, cuando abandonan sus nidos.
+La época del apareamiento es aproximadamente a fines de marzo. Los machos se dedican a amenazar a sus rivales con fuertes gritos y sonidos guturales, se persiguen unos a otros hasta las copas de los árboles y se golpean con las alas que baten rápidamente al volar de rama en rama.
+La hembra los observa un momento y luego continúa su rutina diaria en espera del ganador, con el cual formará su próxima familia.
+
+</FONT></P></DIV></div> 
+
+						<h1><a><font color="lime">Tortugas de agua dulce en peligro de extinción</FONT></a></h1>
+						<div><img src="img/tortuga.jpg" height="600"BORDER="3" />
+						<div>
+						<CENTER><BIG><B>"Única especie de una familia única en el mundo"</B></BIG></CENTER>
+<p align="justify"><font color="green"><I>En su mayoría se distribuye en nuestro país, aunque también habita en Belice y Guatemala. Es difícil encontrar esa especie en Veracruz y Chiapas, por lo que ya se considera en peligro de extinción.</I></FONT></p>
+<hr width="75%"/>
+<center><BIG><b>Descripción</b></BIG></center>	
+<p align="justify"><font color="GREEN">  Las tortugas de agua dulce se encuentran en peligro de extincion por la sobreexplotación humana y porque en México los recursos de conservación están dirigidos a las especies marinas, carismáticas y protegidas.
+ No existe un programa formal de recuperación que involucre monitoreos, educación ambiental y reproducción en cautiverio.
+ Esos reptiles, igual que muchos otros, son utilizados para consumo humano desde la época prehispánica; el problema es que son extraídos sin ninguna regulación, aunque están protegidos por la ley.
+
+Lo anterior deriva en un desmedido comercio ilegal, interno y externo. Actualmente, ejemplificó, el mercado asiático exige la venta de estos animales; es un grave problema porque la gente en busca de obtener un ingreso económico,  los atrapa y los  vende en el mercado negro.
+En tanto, la chopontil o Claudius angustatus tiene un alto índice de caza; también es única en el mundo, pero a nadie le interesa su preservación y, por ende, su desaparición.
+</FONT></p></DIV></div> 
+
+
+					
+					<!--COMENTARIOS-->	
+						<h1><a><font color="RED">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>COMENTARIOS<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<</FONT></a></h1>
+						
+						
+					<div><CENTER><img src="gif/2407611coment.gif" height="500"</CENTER>
+
+<CENTER><H2><font color="lime">"TU COMENTARIO ES IMPORTANTE PARA NOSOTROS"<FONT></H2></CENTER>
+
+<!--codigo  del  reloj inicia-->
+<embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://u.jimdo.com/www21/o/s4e9df44a0ad8ccd8/flash/m0006f9913bb72815/1335307290/flash.swf" _mce_src="http://u.jimdo.com/www21/o/s4e9df44a0ad8ccd8/flash/m0006f9913bb72815/1335307290/flash.swf" type="" wmode="transparent" height="200" width="200" />
+<!--codigo  del  reloj fin-->
+
+<FORM ACTION="mailto:Gabobalbuena@vidachiapas.com" METHOD="post">
+
+<CENTER>
+<CENTER><TD ALIGN=RIGHT><font color="lime">Nombre:</FONT></TD></CENTER>
+<CENTER><TD><INPUT type="text" size=36 name="nombre"></TD></CENTER>
+<CENTER><TR><TD ALIGN=RIGHT><font color="lime">Direccion E-mail:</FONT></TD></CENTER>
+<img src="gif/correu12.GIF" height="80"/> 
+<CENTER><TD><INPUT type="text" size=36 name="direccion"></TD></CENTER>
+<CENTER><TR><TD ALIGN=RIGHT><font color="lime">como llegaste hasta esta pagina?</FONT></TD></CENTER>
+<CENTER><TD><INPUT type="text" size=36 name="procedencia"></TD></CENTER>
+<CENTER><TR><TD ALIGN=RIGHT>Tus comentatios:</TD></CENTER>
+<CENTER><TD><TEXTAREA rows=5 cols=30 name="comentarios"></TEXTAREA></TD></CENTER>
+
+</TABLE>
+<CENTER><INPUT type="reset" value="Borrar todo"style="color:BLACK; background-color:GREEN"> <INPUT type="submit" value="ENVIAR" style="color:BLACK; background-color:GREEN"></CENTER>
+ 
+</FORM>
+					</div>
+						
+<!--FIN CODIGO  DE COMENTARIO-->	
+
+					</div> 
+			</div>
+			
+			
+<!--¿QUIENES SOMOS?-->			
+			
+			<div id="quienes">
+	
+
+
+					<div id="quien">
+					<CENTER><img src="img/unach.JPG" height="500" BORDER="3"</CENTER>
+					<hr width="75%"/>
+				<FORM>
+				<TABLE>
+			<DIV>
+<p align="justify"><font color="BLACK"><I>Somos alumnos de la universidad autónoma de Chiapas, 
+facultad de contaduría y  administración c-1  de la carrera de sistemas computacionales, 
+este proyecto pretende concientizar mediante esta pagina web a las diferentes personas que la consulten,
+ mediante  la facilitación de información  de las diferentes especies  en  peligro  de extinción, 
+ dentro  de nuestro  bello  estado  de Chiapas para ello  en  nuestra pagina web damos algunos ejemplos
+ de los muchos animales en  peligro  de extinción  en nuestro  estado, 
+ así  como también  cuales con las causas que están provocando  dicha extinción, 
+ también  brindamos una descripción  breve de cada una de las características de cada especie.
+ 
+<hr width="75%"/>
+
+ </I></FONT></p>
+ 
+ <font color="WHITE">PROGRAMACION  DE LA PÁGINA: <BR>ISMAEL  ZEPEDA DIAZ </FONT>
+  <hr width="75%"/>
+  <font color="BLUE">DISEÑO DE LA PÁGINA: <BR> GABRIEL  BALBUENA GUTIÉRREZ <BR>
+ OSCAR MAURICIO MOLINA NULUTAHUA</FONT>
+<hr width="75%"/>
+ <font color="GREEN">INFORMACIÓN: <BR>RAUL SANTIAGO  BALCÁZAR</FONT>
+ <hr width="75%"/>
+ <font color="PURPLE">FOTOS: <BR>MARCOS ALFREDO HERNÁNDEZ PALACIOS</FONT>
+ <hr width="75%"/>
+ <font color="WHITE">ANIMACIONES: <BR>ERI OMAR NIETO  CASTELLANOS</FONT>
+ 
+ 
+ <hr width="75%"/>
+ <CENTER><img src="img/UNACH_CHIAPAS_by_VICTORYS.JPG" height="455" BORDER="3"</CENTER>
+ 
+ <CENTER><img src="img/49950_100001896552678_2408958_q.JPG" height="100" BORDER="3"</CENTER>
+ 
+ 
+
+</DIV>
+</TABLE>
+</FORM>
+
+					
+					</div> 
+					
+			</div><!--FIN DE QUIENES SOMOS?-->
+			
+			
+			<!--inicio  de informacion?-->
+			<div id="LISTA">
+					<div id="LISTAS">
+					<form>
+					<table>
+					<center><b>PARA MÁS INFORMACIÓN   <font color= "red">"CONSULTA LOS SIGUIENTES SITIOS"</font></b></center>
+					
+<hr width="75%"/>
+					<CENTER><img src="gif/imagenes-animadas.gif" height="20" BORDER="3"</CENTER>
+					
+<hr width="75%"/>
+
+					<FONT COLOR="GREEN "><B>Animales 100 por ciento mexicanos y en peligro de extinción:</B></FONT>
+<a href="http://de10.com.mx/9272.html" target="_blank"><font color="ORANGE"> http://de10.com.mx/9272.html</FONT></a><br />
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Asegura la PROFEPA en Chiapas 60 animales en peligro de extinción :</B></FONT>
+<a href="http://www.actualidadesmexico.mx/2010/05/asegura-la-profepa-en-chiapas-60-animales-en-peligro-de-extincion/" target="_blank"><font color="ORANGE">http://www.actualidadesmexico.mx/2010/05/asegura-la-profepa-en-chiapas-60-animales-en-peligro-de-extincion/</FONT></a><br />
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>animales en extinción:</B></FONT>
+<a href="http://animalesmozos.galeon.com/" target="_blank"><font color="ORANGE">http://animalesmozos.galeon.com/</FONT></a><br />
+
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Cómo proteger a los animales en peligro de extinción:</B></FONT>
+<a href="http://www.ehowenespanol.com/proteger-animales-peligro-extincion-como_38181/" target="_blank"><font color="ORANGE">http://www.ehowenespanol.com/proteger-animales-peligro-extincion-como_38181/</FONT></a><br />
+
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Especie en peligro de extinción:</B></FONT>
+<a href="http://es.wikipedia.org/wiki/Especie_en_peligro_de_extinci%C3%B3n" target="_blank"><font color="ORANGE">http://es.wikipedia.org/wiki/Especie_en_peligro_de_extinci%C3%B3n</FONT></a><br />
+
+<hr width="75%"/>
+
+					<FONT COLOR="GREEN "><B>Animales en extinción en México:</B></FONT>
+<a href="http://www.peligrodeextincion.net/animales-en-extincion-en-mexico" target="_blank"><font color="ORANGE">http://www.peligrodeextincion.net/animales-en-extincion-en-mexico</FONT></a><br />
+ 
+	<hr width="75%"/>				<FONT COLOR="GREEN "><B>Tags ‘México’:</B></FONT>
+<a href="http://www.enextincion.com/tags/mexico" target="_blank"><font color="ORANGE">http://www.enextincion.com/tags/mexico</FONT></a><br />
+
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Especies en  Riesgo:</B></FONT>
+<a href="http://www.wwf.org.mx/wwfmex/especies.php" target="_blank"><font color="ORANGE">http://www.wwf.org.mx/wwfmex/especies.php</FONT></a><br />
+
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Especies en peligro de extinción – México:</B></FONT>
+<a href="http://nuevaciencia.com.mx/2012/08/especies-en-peligro-de-extincion-mexico/" target="_blank"><font color="ORANGE"> http://nuevaciencia.com.mx/2012/08/especies-en-peligro-de-extincion-mexico/</FONT></a><br />
+
+
+<hr width="75%"/>
+
+					<FONT COLOR="GREEN "><B>El derecho a sobrevivir: las 100 especies en mayor peligro de extinción:</B></FONT>
+<a href="http://mexico.cnn.com/planetacnn/2012/09/11/el-derecho-a-sobrevivir-las-100-especies-en-mayor-peligro-de-extincion" target="_blank"><font color="ORANGE"> http://mexico.cnn.com/planetacnn/2012/09/11/el-derecho-a-sobrevivir-las-100-especies-en-mayor-peligro-de-extincion</FONT></a><br />
+
+
+
+<hr width="75%"/>
+					<FONT COLOR="GREEN "><B>Especies marinas protegidas:</B></FONT>
+<a href="http://www.profepa.gob.mx/innovaportal/v/429/1/mx/especies_marinas_protegidas.html" target="_blank"><font color="ORANGE">http://www.profepa.gob.mx/innovaportal/v/429/1/mx/especies_marinas_protegidas.html</FONT></a><br />
+
+
+
+<hr width="75%"/>
+
+					<FONT COLOR="GREEN "><B>Aves migratorias En chiapas:</B></FONT>
+<a href="http://espanol.tnc.org/dondetrabajamos/mexico/lugares/chiapas.html" target="_blank"><font color="ORANGE"> http://espanol.tnc.org/dondetrabajamos/mexico/lugares/chiapas.html</FONT></a><br />
+
+
+
+<hr width="75%"/>
+
+					<FONT COLOR="GREEN "><B>Chiapas preservando las especies en peligro de extinción :</B></FONT>
+<a href="http://naturalesunach.blogspot.mx/" target="_blank"><font color="ORANGE">http://naturalesunach.blogspot.mx/</FONT></a><br />
+
+<hr width="75%"/>
+ <CENTER><B>"VISITE CHIAPAS"</B></CENTER>
+<img src="img/chiapas.gif" width="700" height="700" alt="Extinciòn"  title="La Extincion de las Epecies En Chiapas"  border="3"/> 
+ 
+ 
+ 
+</table>
+					</form>
+					</DIV>
+					
+					</DIV>
+	
+			
+			<!--FIN DE informacion-->
+			
+			
+			
+			
+			
+			
+			<div id="reservaciones">
+				<div align="center"> 
+
+				<form>
+					<table>
+<center><b>ANTECEDENTES</b></center>
+			
+			
+					<div>
+					
+	<img src="img/EXTINCION.JPG" width="600" height="300" alt="Extinciòn"  title="La Extincion de las Epecies En Chiapas"  border="3"/><object allowscriptaccess="always" type="application/x-shockwave-flash" data="http://xml.firefoxplugin.info/ticker.swf?id=1239291_2&ln=es" width="200" ALIGN="LEFT" height="200" wmode="transparent"><param name="allowscriptaccess" value="always" /><param name="movie" value="http://xml.firefoxplugin.info/ticker.swf?id=1239291_2&ln=es" /><param name="wmode" value="transparent" /><embed src="http://xml.firefoxplugin.info/ticker.swf?id=1239291_2&ln=es" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" width="175" height="200" /><video width="175" height="200"><a href="http://www.casinos-online.asia/cn/" style="text-decoration:underline;font-size:12px;" title="KRONOS">???</a></video></object>   
+	
+					<div>
+					
+					<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width="75%"/>
+	 
+<p align="justify"><font color="GREEN">Algunos científicos afirman que al comenzar el período del Holoceno (hace 10000 años) comenzó una séptima extinción masiva de la llamada Megafauna que se extiende hasta nuestros días debido a la actividad humana.
+
+El término Megafauna proviene del griego mega, "grande", y se utiliza en paleontología para denominar a los grandes animales terrestres que poblaron la Tierra tras la extinción de los dinosaurios.
+
+Dentro de los animales comprendidos en la Megafauna fueron muchos los extintos. Una de las causas podrían ser cambios climáticos a escala global aunque la explicación más plausible de estas perdidas es la actuación humana. Esta se hace presente de diferentes maneras en la vida de los otros pobladores del planeta: destrucción y fragmentación de su hábitat; introducción de enfermedades, parásitos y depredadores para los que la flora y fauna nativas carecen de defensas; contaminación del aire, agua y suelo; sobreexplotación de especies; uso de productos químicos tóxicos en el control de plagas; deforestación de los bosques (se calcula que se pierden 20.000 kilómetros cuadrados al año de zona forestal); cacería furtiva y tráfico ilegal de especies.
+
+Otra causa que actualmente no se tiene en cuenta pero que va a representar un problema en el futuro es la falta de energía disponible ya que presentemente la especie humana está censada en seis mil millones y se consume el 40% de la actividad primaria neta del planeta. En 2050 se estima que seremos diez mil millones por lo que se supone que esta última cifra aumentará en buen grado.
+
+Como se ha dicho anteriormente, fueron muchas las especies desaparecidas pero en este trabajo vamos a centrarnos de manera resumida en tres: las moas de Nueva Zelanda, el tigre de Tasmania y el delfín de Río Chino.</FONT></p>
+<center><IMG SRC="img/grandes-extinciones_image001.jpg"onmouseover="this.width=400;this.height=400;" onmouseout="this.width=200;this.height=150;" width="200" BORDER="2"></center>
+
+
+
+<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width=75%"/>
+	 
+
+<p align="justify"><font color="GREEN">Los dinornítidos o moas (Dinornithidae) eran una familia de aves no voladoras gigantes de Nueva Zelanda. Se conocen diez especies de diferentes tamaños (la más pequeña, del tamaño de un gallo; la de mayor tamaño, medía cerca de 3m de altura y pesaba 250kg). Las moas se extinguieron alrededor del año 1500 a causa de la llegada de los primeros cazadores maoríes a las islas.
+
+El tigre de Tasmania (Thylacinus cynocephalus), también conocido como lobo de Tasmania, talacino, lobo marsupial o tigre de Tasmania, era un carnívoro marsupial nativo de Australia. Ante la necesidad de alimento atacaba a los rebaños de ovejas por lo que los pastores y el propio gobierno colonial los consideraron alimañas necesarias de exterminio. Lo lograron antes de la primera mitad del siglo XX.</FONT></p>
+
+
+<center><IMG SRC="img/grandes-extinciones_image002.jpg"onmouseover="this.width=400;this.height=400;" onmouseout="this.width=200;this.height=150;" width="200"BORDER="1"></center>
+
+
+<!-- SEPARADOR EN FORMA DE LINEA-->
+	 <hr width="75%"/>
+	 
+
+<p align="justify"><font color="GREEN">El delfín de Río Chino (Lipotes vexillifer) es una de las especies extintas más recientes. Esta variedad de delfines emigró desde el Océano Pacifico al río Yangtze hace unos 20 millones de años. En épocas de la dinastía Han "Erya" había unos 5000 especimenes en el río. En 1979 China lo declaró en peligro, y en 1983 se decreto que su caza era ilegal. Para 1986 la población total se estimaba es unos 300 individuos, y en 1990 unos 200. Su número siguió decreciendo rápidamente, sobre todo con la construcción de la Represa de las tres Gargantas, que alteró de manera irrecuperable el hábitat de este delfín. En 1998 solo se pudieron encontrar 7 ejemplares y los científicos especularon para poder salvarlos pero una expedición que recorrió el río de extremo a extremo en 2006 no pudo hallar ni uno de estos delfines, por lo que se los considera oficialmente extintos.
+
+La Fundación de Conservación de Wuhan "Delfín Baiji", fundada en diciembre de 1996 gastó alrededor de unos 100.000$ para la preservación de células in Vitro, por lo que quizás algún día lo podamos ver nuevamente.</FONT></p></p>
+
+
+<!-- <B><I>Bibliografía:</I></B>
+<a href="http://www.monografias.com/trabajos64/grandes-extinciones/grandes-extinciones2.shtml " target="_blank"><font color="ORANGE">http://www.monografias.com/trabajos64/grandes-extinciones/grandes-extinciones2.shtml</FONT></a><br />
+-->
+					</div>
+						</table>
+				</form>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+					
+	</body>
+	
+</html>
