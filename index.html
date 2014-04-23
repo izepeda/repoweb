@@ -1,0 +1,425 @@
+Index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Marshup Redes Sociales</title>
+	<meta charset="utf-8" />
+	<meta name = "viewport" content = "width=device-width, maximum-scale = 1, minimum-scale=1" />
+	<link rel="stylesheet" type="text/css" href="css/default.css" media="all" />
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" />
+	<link rel="stylesheet" href="css/fixed-navigation.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css' />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/default.js"></script>
+	<script type="text/javascript"
+	    src="https://maps.google.com/maps/api/js?sensor=false">
+	</script>
+	<script type="text/javascript">
+	  function initialize() {
+	    var latlng = new google.maps.LatLng(-34.397, 150.644);
+	    var myOptions = {
+	      zoom: 8,
+	      center: latlng,
+	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	    };
+	    var map = new google.maps.Map(document.getElementById("map_canvas"),
+	        myOptions);
+	  }
+
+	</script>
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body onload="initialize()">
+	<div id="pagewidth">
+		<header id="header">
+			<div class="center">
+				<nav id="mainNav">
+					<ul>
+						<li class="active"><a href="#pagewidth"><span>Inicio</span></a></li>
+						<li><a href="#twoColumnLayout"><span>Creditos</span></a></li>
+						<li><a href="#threeColumnLayout"><span>¿Ques es?</span></a></li>
+						<li><a href="#boxes"><span>Contacto</span></a></li>
+						<li><a href="#testiomonialsTab"><span>Ayuda</span></a></li>
+						
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<div id="content">
+			<section class="row">
+				<div class="center">
+					<h1>Mashup de Redes Sociales</h1>
+					<strong class="subHeading">Mashup</strong>
+					<div class="gallery">
+						<ul class="slides">
+							<li><img src="img/img-gallery.jpg" alt="image" /></li>
+							<li><img src="img/img-gallery2.jpg" alt="image" /></li>
+							<li><img src="img/img-gallery3.jpg" alt="image" /></li>
+						</ul>
+					</div>
+					<div class="buttons">
+						<a href="" class="btn btnGreen"><span>Registrate</span></a>
+						<span><em>o</em></span>
+						<a href="menu.html" class="btn btnBlue"><span>Inicia Sesion</span></a>
+					</div>
+				</div>
+			</section>
+			<section id="twoColumnLayout" class="row grey">
+				<div class="center">
+					<h1>Marshup de Redes Sociales</h1>
+					
+			<section id="threeColumnLayout" class="row">
+				<div class="center">
+					<h1>3 columnas</h1>
+					<strong class="subHeading">mashup 3 columnas</strong>
+					<div class="columns">
+						
+						
+					</div>
+				</div>
+			</section>
+
+
+  
+
+			<section id="boxes" class="row grey">
+				<div class="center">
+					<h1>Informacion Redes SOciales</h1>
+					<strong class="subHeading">Informacion de Redes Sociales</strong>
+					<div class="columns">
+						<article class="news oneThird">
+							<div>
+								<h3><a href="#">Facebook</a></h3>
+								<div class="content">
+									<a href="#" class="imgHolder fullWidth"><img src="img/img-news01.jpg" alt="" /></a>
+									<p>api</p>
+									<p>facebook.</p>
+								</div>
+								<div class="readMore"><a href="#" class="btn btnSmall"><span>Facebook</span></a></div>
+							</div>
+						</article>
+						<article class="news oneThird">
+							<div>
+								<h3><a href="">Twitter</a></h3>
+								<div class="content">
+									<a href="" class="imgHolder fullWidth"><img src="img/img-news01.jpg" alt="" /></a>
+									<p>api.</p>
+									<p>twitter</p>
+								</div>
+								<div class="readMore"><a href="#" class="btn btnSmall"><span>Twitter</span></a></div>
+							</div>
+						</article>
+						<article class="news oneThird">
+							<div>
+								<h3><a href="#">Lin-kin</a></h3>
+								<div class="content">
+									<a href="#" class="imgHolder fullWidth"><img src="img/img-news01.jpg" alt="" /></a>
+									<p>api</p>
+									<p>Lin.kedin.</p>
+								</div>
+								<div class="readMore"><a href="#" class="btn btnSmall"><span>Lin</span></a></div>
+							</div>
+						</article>
+
+
+					</div>
+						<article class="news oneThird">
+							<div>
+								<h3><a href="#">Youtube</a></h3>
+								<div class="content">
+									<a href="#" class="imgHolder fullWidth"><img src="img/img-news01.jpg" alt="" /></a>
+									<p>api</p>
+									<p>youtue</p>
+								</div>
+								<div class="readMore"><a href="#" class="btn btnSmall"><span>Youtube</span></a></div>
+							</div>
+						</article>
+				</div>
+
+			</section>
+			
+			<section id="contactUs" class="row grey">
+				<div class="center">
+					<h1>Registrate</h1>
+					<strong class="subHeading">Ahora</strong>
+					<div class="columns">
+						<div class="half">
+							<form method="post" action="contact.php" class="form contact-form">
+								<fieldset>
+									<h2>Registro</h2>
+									<div id="message"></div>
+									<div class="formRow">
+										<div class="textField"><input type="text" name="contact-name" id="name" placeholder="Tu nombre" /></div>	
+									</div>
+									<div class="formRow">
+										<div class="textField"><input type="text" name="contact-email" id="email" placeholder="Tu correo ..." /></div>
+									</div>
+									<div class="formRow">
+										<div class="textField"><textarea cols="20" name="contact-comment" id="comment" rows="4" placeholder=".tu contraseña"></textarea></div>
+									</div>
+									<div class="formRow">
+										<button class="btnSmall btn submit right">
+											<span>Registrar</span>
+										</button>
+									</div>
+								</fieldset>
+							</form>
+						</div>
+						<div class="half">
+							<h2>Foto</h2>
+							<div id="map">
+								<div class="imgHolder"><div id="map_canvas" style="width:445px; height:392px"></div></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<footer id="footer">
+			<div class="center">
+				<span class="copy">hola <a href="">mashup.cprogramar</a></span>
+				suscribete <a href="">blog</a> ver <a href="">Twitter</a>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>
+
+Facebook_callback.php
+
+<?
+require_once('src/facebook.php');
+
+$facebook = new Facebook();
+
+$fb_id = $facebook->getUser();
+if($fb_id==0){
+//usuario no autentificado
+header("Location:facebook.php");
+}
+else{
+	
+	//usuario no autentificado
+	//$face
+	
+	$usuario = $facebook->api("/me");
+	//
+	//var_dump($usuario);
+	?>
+	
+	<?
+	echo $usuario["name"];?><br>
+	?>
+	
+	<?
+	echo '<a href="resource/albums.php">Albums</a>';?><br>
+	?>
+	
+	<?
+	
+	echo '<a href="resource/photos.php">photos</a>';?><br>
+	?>
+	
+	<?
+	
+	echo '<a href="resource/post.php">post</a>';?><br>
+	?>
+	
+	<?
+	
+	echo '<a href="resource/permisos.php">permisos</a>';?><br>
+	?>
+	<?
+	
+	echo '<a href="'.$facebook->getLogoutUrl(array("next"=>"http://mashup.cprogramar.com/vts_lab/facebook.php")).'">Logout'.$fb_id.'</a>';?><br>
+	?>
+	
+	<?
+	echo '<a href="facebook.php">ir a login</a>';
+}
+
+?>
+
+Facebook.php
+<?
+
+require_once('src/facebook.php');
+
+$facebook = new Facebook();
+
+$url = $facebook->getLoginUrl(array(
+'redirect_uri'=>"http://mashup.cprogramar.com/vts_lab/facebook_callback.php",
+'scope'=>"user_photos, publish_stream"
+));
+
+
+?>
+<a href="<?php echo $url;?>">login con facebook</a>
+
+
+<?
+require_once('../src/facebook.php');
+
+$facebook = new Facebook();
+
+
+if(isset($_GET["album_create"])){
+	
+	switch ($_GET["album_privacy"]){
+		case 'EVERYONE':$privacy = "{'value' : 'EVERYONE'}";break;
+		case 'ALL_FRIENDS':$privacy = "{'value' : 'ALL_FRIENDS'}";break;
+		case 'FRIENDS_OF_FRIENDS':$privacy = "{'value' : 'FRIENDS_OF_FRIENDS'}";break;
+		case 'SELF':$privacy = "{'value' : 'SELF'}";break;
+			
+		
+	}
+
+
+
+$status = $facebook->api("/me/albums","POST",array(
+"name"=>$_GET["album_name"],
+"message"=>$_GET["album_description"],
+"privacy"=>$privacy
+));
+
+
+if($status["id"]){
+	echo "Tu album ha sido creado ".$status["id"];
+	
+}else{
+	echo "error al crear album";
+}
+
+}
+?>
+
+<html>
+	<head>
+	</head>
+	<body>
+	
+	<form action="">
+		<input type="text" name="album_name" />
+		<textarea name="album_description"></textarea>
+		<select name="album_privacy">
+			<option value = "EVERYONE"> Todos</option>
+			<option value= "ALL_FRIENDS">Amigos</option>
+			<option value="FRIENDS_OF_FRIENDS">Amigos de amigos</option>
+			<option value="SELF">solo yo</option>
+			<option value="CUSTOM">Todos</option>
+			
+		</select>
+		<input type="submit" name = "album_create" value="crear" />
+		
+		
+		
+		
+	</form>
+	<hr>
+	<?php
+	
+	$albums = $facebook->api("/me/albums","GET",array(
+	"fields"=> "id,name,description,link,privacy"
+	
+	
+	));
+	
+	//var_dump($albums);
+	
+	?>
+	
+	<table>
+		<td>nombre</td>
+		
+			<td>id</td>
+			<td>Link</td>
+			<td>Description</td>
+			<td>Privacity</td>
+	
+	<?php
+	
+	foreach($albums ["data"] as $album){
+		?>
+		<tr>
+			
+			<td><?php echo $album["name"];?></td>
+			<td><?php echo $album["id"];?></td>
+			<td><a href="<?php echo $album["link"];?>">Link</a></td>
+			<td><?php echo $album["description"];?></td>
+			<td><?php echo $album["privacy"];?></td>
+		</tr>
+		
+		<?php
+	}
+	
+	?>
+	</table>
+	
+	</body>
+	
+</html>
+
+<?
+require_once('../src/facebook.php');
+
+$facebook = new Facebook();
+
+$permisos = $facebook->api("/me/permissions");
+
+var_dump($permisos);
+
+$user_friends = $permisos["data"][0]["user_friends"];
+
+if($user_friends){
+	
+	echo"tienes permiso para leet la lista del usuario";
+
+
+}else {
+	
+}
+
+?>
+
+<?
+require_once('../src/facebook.php');
+
+$facebook = new Facebook();
+
+$permisos = $facebook->api("/me/permissions");
+
+var_dump($permisos);
+
+$user_friends = $permisos["data"][0]["user_friends"];
+
+if($user_friends){
+	
+	echo"tienes permiso para leet la lista del usuario";
+
+
+}else {
+	
+}
+
+?>
+
+<?
+require_once('../src/facebook.php');
+
+$facebook = new Facebook();
+
+
+$post = $facebook->api("/me/feed","POST", array(
+
+"message"=>"un mensaje cauqluiera",
+
+
+
+));
+var_dump($post);
+?>
